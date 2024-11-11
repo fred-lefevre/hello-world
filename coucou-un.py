@@ -1,1 +1,1 @@
-print("Un coucou")
+print("Un coucou !")
