@@ -1,1 +1,1 @@
-print("Truc 5 main")
+print("Truc 5 résolu")
